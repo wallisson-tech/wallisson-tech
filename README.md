@@ -16,9 +16,8 @@
 ### 🧪 Projetos em Destaque
 
 - 🧠 [**Plataforma Educativa Comunitária**](https://github.com/seu-usuario/plataforma-educativa): site focado no ODS 4 - Educação de Qualidade, feito com HTML, CSS e JS puro.
-- 🌐 [**Portifólio-Wall**](https://github.com/seu-usuario/local-url-redirector): ferramenta para tornar URLs locais mais fáceis de lembrar e compartilhar.
-- 📘 [**Crypto_Wallet**](https://github.com/seu-usuario/my-card): cartão de visita online com foco em responsividade e layout simples.
-![Wallisson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallisson-tech&show_icons=true&theme=radical)
+- 🌐 [**Portifólio-Wall**](https://github.com/wallisson-tech/portfolio-wall): Site pessoal criado com Ruby on Rails.
+- 📘 [**Crypto_Wallet**](https://github.com/seu-usuario/my-card): Projeto de cadastro de moedas.
 
 ---
 
@@ -30,6 +29,8 @@
 
 ---
 ## 📊 GitHub Stats
+
+![Wallisson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallisson-tech&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
