@@ -1,8 +1,34 @@
-# Olá! Sejam bem vindos ao meu Github!👋
+<h1 align="center">Olá, eu sou o Wallisson 👋</h1>
+<p align="center">
+  <em>Estudante de Engenharia de Software | Desenvolvedor iniciante em Ruby on Rails | Foco em projetos educacionais e web</em>
+</p>
+---
 
+### 🚀 Sobre mim
+
+- 🎓 Atualmente estudando Engenharia de Software
+- 🛠️ Aprendendo e construindo com **Ruby on Rails**, **JavaScript**, **HTML** e **CSS**
+- 🎯 Desenvolvendo projetos com propósito social, como a *Plataforma Educativa Comunitária*
+- 🧠 Interesses: Desenvolvimento Web, Inovação Social, Open Source e Educação Tecnológica
 ## 📊 GitHub Stats
+---
 
+### 🧪 Projetos em Destaque
+
+- 🧠 [**Plataforma Educativa Comunitária**](https://github.com/seu-usuario/plataforma-educativa): site focado no ODS 4 - Educação de Qualidade, feito com HTML, CSS e JS puro.
+- 🌐 [**Portifólio-Wall**](https://github.com/seu-usuario/local-url-redirector): ferramenta para tornar URLs locais mais fáceis de lembrar e compartilhar.
+- 📘 [**Crypto_Wallet**](https://github.com/seu-usuario/my-card): cartão de visita online com foco em responsividade e layout simples.
 ![Wallisson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallisson-tech&show_icons=true&theme=radical)
+
+---
+
+### 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/wallissonlsantos) (coloque o link real)
+- 💌 wallissonlopes.ti@gmail.com
+- 🌍 Em breve: meu portfólio pessoal 👀
+
+---
 
 ## 🏆 Top Languages
 
