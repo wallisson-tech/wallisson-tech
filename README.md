@@ -2,6 +2,7 @@
 <p align="center">
   <em>Estudante de Engenharia de Software | Desenvolvedor iniciante em Ruby on Rails | Foco em projetos educacionais e web</em>
 </p>
+
 ---
 
 ### 🚀 Sobre mim
@@ -15,7 +16,7 @@
 
 ### 🧪 Projetos em Destaque
 
-- 🧠 [**Plataforma Educativa Comunitária**](https://github.com/seu-usuario/plataforma-educativa): site focado no ODS 4 - Educação de Qualidade, feito com HTML, CSS e JS puro.
+- 🧠 [**Plataforma Educativa Comunitária**](https://github.com/wallisson-tech/plataforma-educativa): site focado no ODS 4 - Educação de Qualidade, feito com HTML, CSS e JS puro.
 - 🌐 [**Portifólio-Wall**](https://github.com/wallisson-tech/portfolio-wall): Site pessoal criado com Ruby on Rails.
 - 📘 [**Crypto_Wallet**](https://github.com/seu-usuario/my-card): Projeto de cadastro de moedas.
 
