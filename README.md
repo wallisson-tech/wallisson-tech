@@ -10,7 +10,7 @@
 - 🛠️ Aprendendo e construindo com **Ruby on Rails**, **JavaScript**, **HTML** e **CSS**
 - 🎯 Desenvolvendo projetos com propósito social, como a *Plataforma Educativa Comunitária*
 - 🧠 Interesses: Desenvolvimento Web, Inovação Social, Open Source e Educação Tecnológica
-## 📊 GitHub Stats
+
 ---
 
 ### 🧪 Projetos em Destaque
@@ -24,11 +24,12 @@
 
 ### 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/wallissonlsantos) (coloque o link real)
+- 💼 [LinkedIn](https://linkedin.com/in/wallissonlsantos)
 - 💌 wallissonlopes.ti@gmail.com
 - 🌍 Em breve: meu portfólio pessoal 👀
 
 ---
+## 📊 GitHub Stats
 
 ## 🏆 Top Languages
 
