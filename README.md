@@ -16,8 +16,8 @@
 
 ### 🧪 Projetos em Destaque
 
-- 🧠 [**Plataforma Educativa Comunitária**](https://github.com/wallisson-tech/educational-platform): site focado no ODS 4 - Educação de Qualidade, feito com Ruby on Rails, HTML/CSS e JS.
-- 🌐 [**Dev_Wallop**](https://github.com/wallisson-tech/dev_wallop): Site pessoal criado com Ruby on Rails.
+- 🧠 [**Plataforma Educativa Comunitária**](https://github.com/wallisson-tech/educational-platform): Projeto focado no ODS 4 - Educação de Qualidade, sendo desenvolvido com Ruby on Rails, HTML/CSS e JS.
+- 🌐 [**Wallop.dev**](https://github.com/wallisson-tech/dev_wallop): Site pessoal criado com Ruby on Rails.
 - 📘 [**Crypto_Wallet**](https://github.com/seu-usuario/my-card): Projeto de cadastro de moedas.
 
 ---
