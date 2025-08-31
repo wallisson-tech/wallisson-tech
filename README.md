@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Wallisson 👋</h1>
 <p align="center">
-  <em>Estudante de Engenharia de Software | Desenvolvedor iniciante em Ruby on Rails | Foco em projetos educacionais e web</em>
+  <em>Estudante de Engenharia de Software | Desenvolvedor iniciante em Ruby on Rails | Foco em projetos Web e sistemas</em>
 </p>
 
 ---
